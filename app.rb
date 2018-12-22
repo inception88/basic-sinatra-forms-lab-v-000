@@ -6,8 +6,8 @@ get '/newteam' do
   erb :newteam
 end
 
-post '/newteam' do
-  erb :newteam
+post '/team' do
+  erb :team
 end
 
 end
